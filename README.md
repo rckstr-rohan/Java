@@ -4,7 +4,8 @@
 
 ## Project Descriptions
 
-Below here are some of my java project exercise codes, I would like to share it with everyone, hope that we are able to improve with everyone!
+Below here are some of my java project exercise codes, I would like to share it with everyone on this open source platform, hope that we are able to improve with everyone!
+Do contribute to me projects!!
 
 ## Java Projects
 
@@ -31,3 +32,5 @@ Below here are some of my java project exercise codes, I would like to share it 
 ## Last
 
 If any of the projects above is able to help you out, please do click on "Star" on top right-hand-site. Thank you!
+Appreciation and comments are welcome.
+Peace!!!
